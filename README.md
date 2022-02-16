@@ -1,4 +1,4 @@
-- Olá, só Natanael Bezerra, desenvolvedor de Sistemas, trabalho desde 2017 com desenvolvimento de aplicativos para Desktops, Mobile (Android e Ios) e Sites Web, veja abaixo minha stack de trabalho:
+- Olá, Natanael Bezerra aqui, desenvolvedor de Sistemas, desde 2017 sou desenvolvedor de aplicativos para Desktops, Mobile (Android e Ios) e Sites Web, veja abaixo minha stack de trabalho:
 - Sites Web - Html, Css, Sass, Bootstrap, Javascript, React JS, Next JS.
 - Aplicativos Android e IOS - React Native.
 - Aplicativos Desktop - Electron JS
